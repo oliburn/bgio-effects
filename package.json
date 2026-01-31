@@ -13,7 +13,7 @@
   "exports": {
     ".": "./dist/index.js",
     "./react": "./dist/react/index.js",
-    "./plugin": "./dist/plugin/index.js"
+    "./plugin": "./dist/plugin.js"
   },
   "scripts": {
     "clean": "rimraf dist",
